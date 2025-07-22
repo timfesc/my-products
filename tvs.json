@@ -1,20 +1,23 @@
 [
   {
-    "title": "Телевизор LG OLED55",
-    "model": "OLED55CX",
-    "images": [
-      "https://via.placeholder.com/300x200?text=Фото+1",
-      "https://via.placeholder.com/300x200?text=Фото+2",
-      "https://via.placeholder.com/300x200?text=Фото+3"
+  "title": "LG OLED 55",
+  "model": "OLED55C2",
+  "description": "55-дюймовый OLED телевизор с α9 Gen5 процессором.",
+  "images": [
+    "https://example.com/image1.jpg",
+    "https://example.com/image2.jpg"
     ]
   },
   {
-    "title": "Стиральная машина LG",
-    "model": "F12B8ND",
-    "images": [
-      "https://via.placeholder.com/300x200?text=Фото+1",
-      "https://via.placeholder.com/300x200?text=Фото+2",
-      "https://via.placeholder.com/300x200?text=Фото+3"
+  "title": "LG OLED 55",
+  "model": "OLED55C2",
+  "description": "55-дюймовый OLED телевизор с α9 Gen5 процессором.",
+  "images": [
+    "https://example.com/image1.jpg",
+    "https://example.com/image2.jpg"
     ]
   }
 ]
+
+
+
