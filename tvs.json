@@ -1,1 +1,20 @@
-
+[
+  {
+    "title": "Телевизор LG OLED",
+    "model": "OLED55CX",
+    "images": [
+      "https://via.placeholder.com/300x200?text=1",
+      "https://via.placeholder.com/300x200?text=2",
+      "https://via.placeholder.com/300x200?text=3"
+    ]
+  },
+  {
+    "title": "Смартфон LG X100",
+    "model": "X100-BLK",
+    "images": [
+      "https://via.placeholder.com/300x200?text=1",
+      "https://via.placeholder.com/300x200?text=2",
+      "https://via.placeholder.com/300x200?text=3"
+    ]
+  }
+]
