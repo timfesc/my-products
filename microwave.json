@@ -15,8 +15,9 @@
   "model": "OLED55C2",
   "description": "551-дюймовый OLED телевизор с α9 Gen5 процессором.",
   "images": [
-    "https://example.com/image1.jpg",
-    "https://example.com/image2.jpg"
+   "https://raw.githubusercontent.com/timfesc/images/refs/heads/main/logo-lg-100-44.svg",
+    "https://raw.githubusercontent.com/timfesc/images/refs/heads/main/logo-lg-100-44.svg",
+    "https://raw.githubusercontent.com/timfesc/images/refs/heads/main/logo-lg-100-44.svg"
     ]
   }
 ]
