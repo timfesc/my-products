@@ -13,7 +13,11 @@
     "title":"LG MH6565DIS Багтаамж: 25L",
     "model":"MH6565DIS.BBKQCIS",
     "description":"Smart Inverter – ухаалаг инвертер технологи, Жигд халаалт, Хурдан бэлтгэх горим, Жигд гэсгээх горим, Олон төрлийн хоол бэлтгэх боломж, Эрүүл хоол хийх горим, EasyClean™ – хялбар цэвэрлэгээний бүрэлт",
-    "images":""
+    "images":[
+      "https://raw.githubusercontent.com/timfesc/product-images/main/MWO%20png/MH6565DIS.BBKQCIS/MH6565DIS.BBKQCIS_01.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/MWO%20png/MH6565DIS.BBKQCIS/MH6565DIS.BBKQCIS_02.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/MWO%20png/MH6565DIS.BBKQCIS/MH6565DIS.BBKQCIS_03.png"
+    ]
   },
   {
     "title":"LG MS2042DB Багтаамж: 20L",
