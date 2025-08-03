@@ -1,102 +1,162 @@
 [
   {
-    "model": "OLED55B4RLA",
-    "title": "4K OLED Зурагт  LG 55''",
-    "description": "• 2024 оны загвар α8 4K ухаалаг процессор Гүн хар өнгө<br>• тод цагаан өнгөний дүрслэл webOS Re:New хөтөлбөрөөр 5 жилийн шинэчлэлтийн баталгаа Dolby Atmos / Dolby Vision дэмжлэгтэй VRR<br>• G-Sync<br>• FreeSync технологиудтай — гацалтгүй<br>• жигд тоглох мэдрэмж",
+    "model": "50QNED80T6A",
+    "title": "4K QNED Зурагт  LG 50''",
+    "description": "• 2024 оны загвар α5 4K Gen7 ухаалаг процессор<br> • Precision Dimming технологи – нарийн бүдэгрүүлэлт webOS Re:New Program – 5 жилийн шинэчлэлтийн баталгаатай<br> • Ultra-Slim дизайн",
     "images": [
-      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/OLED55B4RLA/OLED55B4RLA_01.png",
-      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/OLED55B4RLA/OLED55B4RLA_02.png",
-      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/OLED55B4RLA/OLED55B4RLA_03.png"
+      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/50QNED80T6A/50QNED80T6A_01.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/50QNED80T6A/50QNED80T6A_02.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/50QNED80T6A/50QNED80T6A_03.png"
     ]
   },
   {
-    "model": "OLED65C4RLA",
-    "title": "4K OLED Зурагт  LG 65''",
-    "description": "• 2024 оны загвар 7-р үеийн α9 4K AI процессороор сайжруулсан дүрс ба дууны илүү нарийн ялгарал Brightness Booster технологиор илүү тод<br>• гэрэлтсэн зураглал Нимгэн дизайн ба нарийн хүрээтэй загвар webOS Re:New хөтөлбөрөөр 5 жилийн хугацаанд 4 жилийн update баталгаатай Dolby Atmos болон Dolby Vision<br>• мөн VRR<br>• G-Sync<br>• FreeSync технологиор гайхалтай кино үзэх<br>• тоглох мэдрэмж",
+    "model": "55QNED80T6A",
+    "title": "4K QNED Зурагт  LG 55''",
+    "description": "• 2024 оны загвар α5 4K Gen7 ухаалаг процессор<br> • Precision Dimming технологи webOS Re:New Program – 5 жилийн шинэчлэлтийн баталгаатай<br> • Ultra-Slim дизайн",
     "images": [
-      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/OLED65C4RLA/OLED65C4RLA_01.png",
-      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/OLED65C4RLA/OLED65C4RLA_02.png",
-      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/OLED65C4RLA/OLED65C4RLA_03.png"
+      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/55QNED80T6A/55QNED80T6A_01.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/55QNED80T6A/55QNED80T6A_02.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/55QNED80T6A/55QNED80T6A_03.png"
     ]
   },
   {
-    "model": "OLED65G4RLA",
-    "title": "4K OLED Зурагт  LG 65''",
-    "description": "• 2024 оны загвар α11 4K AI процессорын сайжруулалтаар илүү тод дүрс ба чанартай дуугаралт Brightness Booster Max технологиор илүү хурц<br>• амьд зураглал One Wall загвар – хананд зайгүй суурилуулалттай<br>• интерьерийн төгс шийдэл Dolby Atmos ба Dolby Vision<br>• VRR<br>• G-Sync<br>• FreeSync технологиор кино<br>• тоглоомыг шинэ түвшинд мэдрээрэй",
+    "model": "55QNED80A6A",
+    "title": "4K QNED Зурагт  LG 55''",
+    "description": "• 2025 оны загвар<br> • Шинэ<br> • Dynamic QNED Color технологиор гайхалтай баялаг өнгөний хүрээ α7 4K Gen8<br> • AI процессороор сайжруулсан 4K дүрсний чанар, тод өнгө ба хүрээлэх дуугаралт<br> • AI Magic Remote – шинэ<br> • AI товч ба дуу хоолойгоор удирдах боломжтой<br> • Precision Dimming технологи – тод, нягтралтай дүрс ба хамгийн нарийн деталиудыг харуулна",
     "images": [
-      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/OLED65G4RLA/OLED65G4RLA_01.png",
-      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/OLED65G4RLA/OLED65G4RLA_02.png",
-      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/OLED65G4RLA/OLED65G4RLA_03.png"
+      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/55QNED80A6A/55QNED80A6A_01.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/55QNED80A6A/55QNED80A6A_02.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/55QNED80A6A/55QNED80A6A_03.png"
     ]
   },
   {
-    "model": "OLED55A3RLA",
-    "title": "4K OLED Зурагт  LG 55''",
-    "description": "• 2023 оны загвар α7 AI Processor 4K Gen6 процессороор илүү ухаалаг хэрэглэгчийн туршлага Infinite Contrast‑гайхалтай тод<br>• ялгаралттай дүрс ThinQ AI ухаалаг систем болон webOS зэрэг ухаалаг функцүүд Dolby Atmos болон Dolby Vision технологитой гайхалтай кино үзэх мэдрэмж Netflix<br>• Prime Video зэрэг стриминг үйлчилгээ суурилуулсан",
+    "model": "65QNED80T6A",
+    "title": "4K QNED Зурагт  LG 65''",
+    "description": "• 2024 оны загвар<br> • QNED Color – Маш тод, гайхалтай өнгөний нягтрал 7-р үеийн α5 4K AI процессороор сайжруулсан дүрс ба дууны чанар<br> • Тод, нарийн дүрслэлийг дэвшилтэт бүдэгрүүлэлтийн системээр<br> • Интерьертэй тань төгс зохицох нимгэн дизайн webOS Re:New хөтөлбөрөөр 5 жилийн хугацаанд 4 жилийн update баталгаа",
     "images": [
-      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/OLED55A3RLA/OLED55A3RLA_01.png",
-      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/OLED55A3RLA/OLED55A3RLA_02.png",
-      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/OLED55A3RLA/OLED55A3RLA_03.png"
+      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/65QNED80T6A/65QNED80T6A_01.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/65QNED80T6A/65QNED80T6A_02.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/65QNED80T6A/65QNED80T6A_03.png"
     ]
   },
   {
-    "model": "OLED65G3RLA",
-    "title": "4K OLED Зурагт  LG 65''",
-    "description": "• 2023 оны загвар α9 4K Gen6 Ухаалаг процессор Brightness Booster Max алгоритм – Дэлгэцийн тод байдлыг нэмэгдүүлнэ One with the Wall – Ханын хамт уусан нийцэх хийц Smart TV webOS 23<br>• Alice<br>• ThinQ<br>• Magic Remote‑оор дуу хоолойгоор удирдах боломжтой Dolby Atmos / Dolby Vision<br>• Game Optimizer – кино<br>• тоглоомын гайхамшигт туршлага",
+    "model": "65QNED80A6A",
+    "title": "4K QNED Зурагт  LG 65''",
+    "description": "• 2025 оны загвар<br> • Шинэ динамик<br> • QNED өнгөний технологиор гайхалтай баялаг өнгөний нягтрал α7 4K Gen8<br> • AI процессороор сайжруулсан дүрс, дуу болон 4K нягтралтай зураг<br> • AI Magic Remote дээр шинэ<br> • AI товчлуур, дуу хоолойгоор удирдах, чирэх болон буулгах функцүүд<br> • Precision Dimming технологи нь тод, нарийн дүрслэлтэй зураг гаргаж, нарийн хэсгүүдийг тодотгоно",
     "images": [
-      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/OLED65G3RLA/OLED65G3RLA_01.png",
-      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/OLED65G3RLA/OLED65G3RLA_02.png",
-      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/OLED65G3RLA/OLED65G3RLA_03.png"
+      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/65QNED80A6A/65QNED80A6A_01.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/65QNED80A6A/65QNED80A6A_02.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/65QNED80A6A/65QNED80A6A_03.png"
     ]
   },
   {
-    "model": "OLED65C3RLA",
-    "title": "4K OLED Зурагт  LG 65''",
-    "description": "• 2023 оны загвар α9 4K Gen6 ухаалаг процессор Төрөл: OLED телевизор Brightness Booster алгоритм – гэрэлт болон тод өнгөний сайжруулалт Нимгэн дизайн – интерьерийн төгс зохицол LG Sound Bar‑тэй төгс хослол Smart TV: webOS 23<br>• Alice<br>• ThinQ<br>• дуу хоолой удирдлага бүхий Magic Remote WOW Orchestra<br>• Dolby Atmos / Vision<br>• Game Optimizer – кино<br>• тоглоомын гайхамшигтай туршлага",
+    "model": "75QNED80T6A",
+    "title": "4K QNED Зурагт  LG 75''",
+    "description": "• 2024 оны загвар<br> • QNED Color технологиор тод, хурц, гайхалтай өнгө 7 дахь үеийн α5 4K AI процессороор сайжруулсан дүрс ба дууны чанар<br> • Дэвшилтэт бүдэгрүүлэлтийн технологиор илүү тод, нарийн дүрслэл<br> • Интерьертэй тань төгс зохицох нимгэн дизайн webOS Re:New Program 5 жилийн хугацаанд 4 жилийн update баталгаа",
     "images": [
-      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/OLED65C3RLA/OLED65C3RLA_01.png",
-      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/OLED65C3RLA/OLED65C3RLA_02.png",
-      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/OLED65C3RLA/OLED65C3RLA_03.png"
+      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/75QNED80T6A/75QNED80T6A_01.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/75QNED80T6A/75QNED80T6A_02.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/75QNED80T6A/75QNED80T6A_03.png"
     ]
   },
   {
-    "model": "OLED55C3RLA",
-    "title": "4K OLED Зурагт  LG 55''",
-    "description": "• 2023 оны загвар α9 4K Gen6 Ухаалаг процессор – зураг<br>• дууны өндөр нарийвчлал Төрөл: OLED телевизорууд Brightness Booster алгоритм – гэрэлтэлт<br>• тод байдлыг сайжруулна Нимгэн дизайн – орчин үеийн<br>• минимал интерьерэд төгс зохицол LG Sound Bar‑тай төгс хослол WOW Orchestra дэмжлэг Smart TV: webOS 23<br>• Alice<br>• ThinQ AI Magic Remote – дуу хоолойгоор удирдах боломжтой Dolby Atmos / Vision<br>• Game Optimizer – гайхамшигтай кино болон тоглоомын мэдрэмж",
+    "model": "86QNED80T6A",
+    "title": "4K QNED Зурагт  LG 86''",
+    "description": "• 2024 оны загвар QNED өнгөөр гайхалтай баялаг, хурц тод өнгө Color 7-р үеийн α5 4K AI процессороор сайжруулсан дүрс, дууны чанар<br> • Дэвшилтэт бүдэгрүүлэлтийн технологиор тод, нарийн дүрслэл<br> • Таны гэрийн интерьертэй төгс зохицох хэт нимгэн дизайн webOS Re:New Program 5 жилийн хугацаанд 4 жилийн update баталгаа",
     "images": [
-      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/OLED55C3RLA/OLED55C3RLA_01.png",
-      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/OLED55C3RLA/OLED55C3RLA_02.png",
-      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/OLED55C3RLA/OLED55C3RLA_03.png"
+      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/86QNED80T6A/86QNED80T6A_01.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/86QNED80T6A/86QNED80T6A_02.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/86QNED80T6A/86QNED80T6A_03.png"
     ]
   },
   {
-    "model": "OLED55C5RLA",
-    "title": "4K OLED Зурагт  LG 55''",
-    "description": "• 2025 оны загвар α9 Gen8 AI процессор бүхий 4K нягтралтай, сайжруулсан дүрслэл ба гүн дуу авиатай True Black технологи – пиксел бүрийн жинхэнэ хар өнгө нь гайхалтай ялгаралт, гүн ба нарийвчлалыг үзүүлнэ 100% өнгөний нарийвчлал, 100% өнгөний эзэлхүүн – байгалийн үнэн бодит, илүү баялаг өнгө Brightness Booster – шинэ гэрэл ялгаруулах бүтцээр тод, амьд дүрслэл Шинэ AI товчлуур, дуу хоолойгоор удирдах боломжтой",
-    "images": [
-      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/OLED55C5RLA/OLED55C5RLA_01.png",
-      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/OLED55C5RLA/OLED55C5RLA_02.png",
-      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/OLED55C5RLA/OLED55C5RLA_03.png"
-    ]
+    "model": "65QNED876RA",
+    "title": "4K QNED Mini-LED Зурагт  LG 65''",
+"description": "2023 оны загвар QNED MiniLED - LCD телевизийн хөгжлийн оргил α7 Gen6 Ухаалаг процессор Тоглоомын өндөр чадамж: GEFORCE Now<br> •  AMD FreeSync Premium дэмжлэгтэй Dolby Vision IQ технологи Smart TV WebOS болон ThinQ AI ухаалаг систем  Magic Remote ухаалаг удирдлага",
+"images": [
+  "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/65QNED876RA/65QNED876RA_01.png",
+  "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/65QNED876RA/65QNED876RA_02.png",
+  "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/65QNED876RA/65QNED876RA_03.png"
+]
   },
   {
-    "model": "OLED77B5RLA",
-    "title": "4K OLED Зурагт  LG 77''",
-    "description": "• 2025 оны загвар α8 AI Processor Gen2 бүхий 4K нягтралтай дүрслэл<br>• сайжруулсан өнгө<br>• дүрс ба гүн дуу авианы мэдрэмж True Black технологи – пиксел бүрийн жинхэнэ хар өнгө нь гайхалтай ялгаралт<br>• гүн ба нарийвчлалыг бүрдүүлнэ 100% өнгөний нарийвчлал<br>• 100% өнгөний эзэлхүүн – бодит мэт<br>• илүү баялаг өнгөний дүрслэл AI Picture Pro технологи нь фрейм бүрийг задлан шинжилж<br>• дүрсний чанарыг бүхэлд нь сайжруулна",
-    "images": [
-      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/OLED77B5RLA/OLED77B5RLA_01.png",
-      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/OLED77B5RLA/OLED77B5RLA_02.png",
-      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/OLED77B5RLA/OLED77B5RLA_03.png"
-    ]
+    "model": "65QNED816RA",
+    "title": "4K QNED Зурагт  LG 65''",
+"description": "2023 оны загвар QNED MiniLED - LCD телевизийн хөгжлийн оргил α7 Gen6 Ухаалаг процессор Тоглоомын өндөр чадамж: GEFORCE Now<br> •  AMD FreeSync Premium дэмжлэгтэй Dolby Vision IQ технологи Smart TV WebOS болон ThinQ AI ухаалаг систем  Magic Remote ухаалаг удирдлага",
+"images": [
+  "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/65QNED816RA/65QNED816RA_01.png",
+  "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/65QNED816RA/65QNED816RA_02.png",
+  "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/65QNED816RA/65QNED816RA_03.png"
+]
   },
   {
-    "model": "OLED65B5RLA",
-    "title": "4K OLED Зурагт  LG 65''",
-    "description": "• 2025 оны загвар α8 AI Processor Gen2 бүхий 4K нягтралтай дүрслэл<br>• сайжруулсан өнгө<br>• дүрс ба гүн дуу авианы мэдрэмж True Black технологи – пиксел бүрийн жинхэнэ хар өнгө нь гайхалтай ялгаралт<br>• гүн ба нарийвчлалыг бүрдүүлнэ 100% өнгөний нарийвчлал<br>• 100% өнгөний эзэлхүүн – бодит мэт<br>• илүү баялаг өнгөний дүрслэл AI Picture Pro технологи нь фрейм бүрийг задлан шинжилж<br>• дүрсний чанарыг бүхэлд нь сайжруулна Шинэ AI товчлуур<br>• дуу хоолойгоор удирдах боломжтой",
-    "images": [
-      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/OLED65B5RLA/OLED65B5RLA_01.png",
-      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/OLED65B5RLA/OLED65B5RLA_02.png",
-      "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/OLED65B5RLA/OLED65B5RLA_03.png"
-    ]
+    "model": "75QNED756RA",
+    "title": "4K QNED Зурагт  LG 75''",
+"description": "2023 оны загвар  QNED – LCD телевизийн хөгжлийн оргил  Шинэ Dimming Pro технологи – Гайхалтай өнгө ба тодосгогч  α5 Gen6 ухаалаг процессор  Smart TV WebOS болон ThinQ AI ухаалаг систем  Тоглоомын боломжууд: GEFORCE Now<br> •  AMD FreeSync Premium суурилсан",
+"images": [
+  "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/75QNED756RA/75QNED756RA_01.png",
+  "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/75QNED756RA/75QNED756RA_02.png",
+  "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/75QNED756RA/75QNED756RA_03.png"
+]
+  },
+  {
+    "model": "55QNED816RA",
+    "title": "4K QNED Зурагт  LG 55''",
+"description": "2023 оны загвар  QNED – LCD дэлгэцийн хөгжлийн оргил шийдэл  α7 Gen6 Ухаалаг процессор – илүү ухаалаг зураг<br> •  дууны боловсруулалт  Тоглоомын дэмжлэг: GEFORCE Now болон AMD FreeSync Premium суурилуулсан  Smart TV WebOS болон ThinQ AI ухаалаг систем   Magic Remote  ухаалаг удирдлага",
+"images": [
+  "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/55QNED816RA/55QNED816RA_01.png",
+  "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/55QNED816RA/55QNED816RA_02.png",
+  "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/55QNED816RA/55QNED816RA_03.png"
+]
+  },
+  {
+    "model": "55QNED756RA",
+    "title": "4K QNED Зурагт  LG 55''",
+"description": "2023 оны загвар  QNED – LCD дэлгэцийн хөгжлийн оргил шийдэл  α7 Gen6 Ухаалаг процессор – илүү ухаалаг зураг<br> •  дууны боловсруулалт  Тоглоомын дэмжлэг: GEFORCE Now болон AMD FreeSync Premium суурилуулсан  Smart TV WebOS болон ThinQ AI ухаалаг систем   Magic Remote  ухаалаг удирдлага",
+"images": [
+  "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/55QNED756RA/55QNED756RA_01.png",
+  "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/55QNED756RA/55QNED756RA_02.png",
+  "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/55QNED756RA/55QNED756RA_03.png"
+]
+  },
+  {
+    "model": "86QNED86A6A",
+    "title": "4K QNED Evo Mini-LED Зурагт  LG 86''",
+"description": "2025 оны загвар  QNED Color шинэ динамик технологиор маш баялаг өнгүүдийг мэдрүүлнэ  α8 Gen2 AI процессор бүхий 4K дүрсийн өндөр чанар<br> •  сайжруулсан дүрслэл ба гүн дуу авианы мэдрэмж  AI Magic Remote – шинэ AI товч<br> •  дуу хоолойн удирдлага<br> •  drag & drop үйлдэл  Precision Dimming технологи – тод<br> •  нарийвчлалтай дүрслэл ба хамгийн нарийн деталь илэрхийлэл",
+"images": [
+  "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/86QNED86A6A/86QNED86A6A_01.png",
+  "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/86QNED86A6A/86QNED86A6A_02.png",
+  "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/86QNED86A6A/86QNED86A6A_03.png"
+]
+  },
+  {
+    "model": "86QNED82A6B",
+    "title": "4K QNED Зурагт  LG 86''",
+"description": "2025 оны загвар  QNED Color шинэ динамик технологиор маш баялаг өнгүүдийг мэдрүүлнэ  α8 Gen2 AI процессор бүхий 4K дүрсийн өндөр чанар<br> •  сайжруулсан дүрслэл ба гүн дуу авианы мэдрэмж  AI Magic Remote – шинэ AI товч<br> •  дуу хоолойн удирдлага<br> •  drag & drop үйлдэл  Precision Dimming технологи – тод<br> •  нарийвчлалтай дүрслэл ба хамгийн нарийн деталь илэрхийлэл",
+"images": [
+  "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/86QNED82A6B/86QNED82A6B_01.png",
+  "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/86QNED82A6B/86QNED82A6B_02.png",
+  "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/86QNED82A6B/86QNED82A6B_03.png"
+]
+  },
+  {
+    "model": "75QNED86A6A",
+    "title": "4K QNED Evo Mini-LED Зурагт  LG 75''",
+"description": "2025 оны загвар  QNED Color шинэ динамик технологиор маш баялаг өнгүүдийг мэдрүүлнэ  α8 Gen2 AI процессор бүхий 4K дүрсийн өндөр чанар<br> •  сайжруулсан дүрслэл ба гүн дуу авианы мэдрэмж  AI Magic Remote – шинэ AI товч<br> •  дуу хоолойн удирдлага<br> •  drag & drop үйлдэл  Precision Dimming технологи – тод<br> •  нарийвчлалтай дүрслэл ба хамгийн нарийн деталь илэрхийлэл",
+"images": [
+  "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/75QNED86A6A/75QNED86A6A_01.png",
+  "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/75QNED86A6A/75QNED86A6A_02.png",
+  "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/75QNED86A6A/75QNED86A6A_03.png"
+]
+  },
+  {
+    "model": "55QNED82A6B",
+    "title": "4K QNED Зурагт  LG 55''",
+"description": "2025 оны загвар  QNED Color шинэ динамик технологиор маш баялаг<br> •  тод өнгөнүүдийг мэдрүүлнэ  α7 Gen8 AI процессор – 4K дүрсний өндөр чанар<br> •  сайжруулсан дүрслэл<br> •  бүрэн дууны мэдрэмж  AI Magic Remote – шинэ AI товч<br> •  дуу хоолойн удирдлага<br> •  drag & drop функцтэй  Precision Dimming технологи – тод<br> •  нарийн дүрслэлийг тодотгоно",
+"images": [
+  "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/55QNED82A6B/55QNED82A6B_01.png",
+  "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/55QNED82A6B/55QNED82A6B_02.png",
+  "https://raw.githubusercontent.com/timfesc/product-images/main/TV%20png/55QNED82A6B/55QNED82A6B_03.png"
+]
   }
 ]
