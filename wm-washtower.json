@@ -1,0 +1,20 @@
+[
+  {
+    "model": "W17WBC",
+    "title": "LG WashTower™ 17 кг угаах / 10 кг хатаах",
+    "description": "• AI DD™ ухаалаг угаах технологи<br> • TurboWash™360° хурдан угаах<br> • Steam+™ уурын технологи<br> • Smart Pairing™ ухаалаг холболт<br> • ThinQ™ алсаас удирдлага",
+    "images": ["https://example.com/w17wbc.jpg"]
+  },
+  {
+    "model": "W16WBC",
+    "title": "LG WashTower™ 16 кг угаах / 10 кг хатаах",
+    "description": "• AI DD™ ухаалаг угаах технологи<br> • TurboWash™360° хурдан угаах<br> • Steam+™ уурын технологи<br> • Smart Pairing™ ухаалаг холболт<br> • ThinQ™ алсаас удирдлага",
+    "images": ["https://example.com/w16wbc.jpg"]
+  },
+  {
+    "model": "W16WBC.ABWREIS",
+    "title": "LG WashTower™ 16 кг угаах / 10 кг хатаах (Special Edition)",
+    "description": "• AI DD™ ухаалаг угаах технологи<br> • TurboWash™360° хурдан угаах<br> • Steam+™ уурын технологи<br> • Smart Pairing™ ухаалаг холболт<br> • ThinQ™ алсаас удирдлага",
+    "images": ["https://example.com/w16wbc-special.jpg"]
+  }
+]
