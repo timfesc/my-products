@@ -1,23 +1,32 @@
 [
   {
-    "sku": "DC90V5V0W.BBWPCOM",
-    "description": "Хатаагч DC90V5V9S – Хос инвертер халаагч Хатаагч",
-    "title": "LG DC90V5V0W Хатаагч Багтаамж 9 kg",
-    "image": "https://www.lg.com/kz/support/product-support/cs-DC90V5V0W.BBWPCOM/?utm_source=chatgpt.com",
-    "usp": "• DUAL Inverter Heat Pump™ Технологи<br>• Эрчим хүчний хэмнэлттэй зэрэглэл: A++<br>• EcoHybrid™<br>• Конденсаторын автомат цэвэрлэгээ<br>• Харшил үүсгэхгүй хатаах функц<br>• Хос шүүлтүүр"
+    "model": "DC90V5V0W.BBWPCOM",
+    "title": "LG DC90V5V0W Хатаагч Багтаамж 9 kg",
+    "images": [
+      "https://raw.githubusercontent.com/timfesc/product-images/main/WM%20png/DC90V5V0W.BBWPCOM/DC90V5V0W.BBWPCOM_01.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/WM%20png/DC90V5V0W.BBWPCOM/DC90V5V0W.BBWPCOM_02.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/WM%20png/DC90V5V0W.BBWPCOM/DC90V5V0W.BBWPCOM_03.png"
+    ],
+        "description": "• DUAL Inverter Heat Pump™ Технологи<br>• Эрчим хүчний хэмнэлттэй зэрэглэл: A++<br>• EcoHybrid™<br>• Конденсаторын автомат цэвэрлэгээ<br>• Харшил үүсгэхгүй хатаах функц<br>• Хос шүүлтүүр"
   },
   {
-    "sku": "DC90V5V9S.BPTPCOM",
-    "description": "Хатаагч DC90V9V9E – Хос инвертер халаагч Хатаагч",
-    "title": "LG DC90V5V9S Хатаагч Багтаамж 9 kg",
-    "image": "https://www.lg.com/eastafrica/Хатаагчs/lg-rh90v9pv8n?utm_source=chatgpt.com",
-    "usp": "• DUAL Inverter Heat Pump™ Технологи<br>• Эрчим хүчний хэмнэлттэй зэрэглэл: A++<br>• Өөрийгөө цэвэрлэх конденсатор<br>• Drum lighting<br>• ThinQ холоос удирдлага<br>• Smart Diagnosis"
+    "model": "DC90V5V9S.BPTPCOM",
+    "title": "LG DC90V5V9S Хатаагч Багтаамж 9 kg",
+    "images": [
+      "https://raw.githubusercontent.com/timfesc/product-images/main/WM%20png/DC90V5V9S.BPTPCOM/DC90V5V9S.BPTPCOM_01.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/WM%20png/DC90V5V9S.BPTPCOM/DC90V5V9S.BPTPCOM_02.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/WM%20png/DC90V5V9S.BPTPCOM/DC90V5V9S.BPTPCOM_03.png"
+    ],
+        "description": "• DUAL Inverter Heat Pump™ Технологи,<br>• Эрчим хүчний хэмнэлттэй зэрэглэл: A++,<br>• Өөрийгөө цэвэрлэх конденсатор,<br>• Drum lighting,<br>• ThinQ холоос удирдлага,<br>• Smart Diagnosis"
   },
   {
-    "sku": "DC90V9V9E.BBWPCOM",
-    "description": "Угаалгын машин F2J3HS0W – Урдаа хаалгатай (Steam)",
-    "title": "LG DC90V9V9E Хатаагч Багтаамж 9 kg",
-    "image": "https://www.lg.com/ru/Хатаагчs/lg-dc90v9v9e?utm_source=chatgpt.com",
-    "usp": "• DUAL Inverter Heat Pump™ Технологи<br>• Эрчим хүчний хэмнэлттэй зэрэглэл: A+++<br>• EcoHybrid™<br>• Конденсаторын автомат цэвэрлэгээ<br>• Харшил үүсгэхгүй хатаах функц<br>• Хос шүүлтүүр"
+    "model": "DC90V9V9E.BBWPCOM",
+    "title": "LG DC90V9V9E Хатаагч Багтаамж 9 kg",
+    "images": [
+      "https://raw.githubusercontent.com/timfesc/product-images/main/WM%20png/DC90V9V9E.BBWPCOM/DC90V9V9E.BBWPCOM_01.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/WM%20png/DC90V9V9E.BBWPCOM/DC90V9V9E.BBWPCOM_02.png",
+      "https://raw.githubusercontent.com/timfesc/product-images/main/WM%20png/DC90V9V9E.BBWPCOM/DC90V9V9E.BBWPCOM_03.png"
+    ],
+        "description": "• DUAL Inverter Heat Pump™ Технологи,<br>• Эрчим хүчний хэмнэлттэй зэрэглэл: A+++,<br>• EcoHybrid™<br>• Конденсаторын автомат цэвэрлэгээ,<br>• Харшил үүсгэхгүй хатаах функц,<br>• Хос шүүлтүүр"
   }
 ]
