@@ -45,11 +45,21 @@
     "model": "XL7S",
     "title": "LG XBOOM XL7S",
     "images": [
+        "https://github.com/timfesc/product-images/blob/main/AV%20png/XL7S.DRUSLLK/XL7S.DRUSLLK_01.png",
+        "https://github.com/timfesc/product-images/blob/main/AV%20png/XL7S.DRUSLLK/XL7S.DRUSLLK_02.png",
+        "https://github.com/timfesc/product-images/blob/main/AV%20png/XL7S.DRUSLLK/XL7S.DRUSLLK_03.png"
+    ],
+    "description": "• LG XBOOM төхөөрөмжөө өөрийн хэв маягт тохируул — өөрийн хүссэн текст ба дүрслэх эффектийг нэмээрэй <br>• Гэрэлтүүлэг болон үдэшлэгийн уур амьсгалыг өөрийн хүссэнээр удирдах <br>• Караоке микрофон болон гитар холбох 2 оролттой <br>• 8 инчийн бүрэн хүрээтэй woofer Speaker-ээр хүчтэй дуугаралт дамжуулна <br>• 20 цаг хүртэл батерейны ажиллах хугацаа"
+  },
+  {
+    "model": "XL5S",
+    "title": "LG XBOOM XL5S",
+    "images": [
         "https://raw.githubusercontent.com/timfesc/product-images/main/AV%20png/XL5S.DRUSLLK/XL5S.DRUSLLK_01.png",
         "https://raw.githubusercontent.com/timfesc/product-images/main/AV%20png/XL5S.DRUSLLK/XL5S.DRUSLLK_02.png",
         "https://raw.githubusercontent.com/timfesc/product-images/main/AV%20png/XL5S.DRUSLLK/XL5S.DRUSLLK_03.png"
     ],
-    "description": "• LG XBOOM төхөөрөмжөө өөрийн хэв маягт тохируул — өөрийн хүссэн текст ба дүрслэх эффектийг нэмээрэй <br>• Гэрэлтүүлэг болон үдэшлэгийн уур амьсгалыг өөрийн хүссэнээр удирдах <br>• Караоке микрофон болон гитар холбох 2 оролттой <br>• 8 инчийн бүрэн хүрээтэй woofer Speaker-ээр хүчтэй дуугаралт дамжуулна <br>• 20 цаг хүртэл батерейны ажиллах хугацаа"
+    "description": "• 480Вт чадалтай, CD тоглуулагч, Bluetooth холболт, FM радио <br>• 2 ширхэг USB оролттой <br>• Караоке функцүүдтэй"
   },
   {
     "model": "CJ44",
