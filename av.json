@@ -21,23 +21,23 @@
     ],
     "description": "• LG QNED телевизтэй төгс зохицолтой <br>• WOW Orchestra технологи – LG телевизтэй хослон дуугаралтын орон зайг өргөжүүлдэг <br>• Dolby Atmos ба дээш чиглэсэн төв суваг – гүн, хүрээлсэн дуугаралт <br>• 2 сувгийн утасгүй арын speaker – хүрээлэх дууны эффект бүрдүүлнэ <br>• 9 speaker бүхий 3D орон зайн дуугаралт – өрөөг бүхэлд нь дүүргэх хүчтэй дуугаралт" 
   },
-  {
-    "model": "S60T",
-    "title": "Dolby Audio™ технологитой, 3.1 сувгийн дуугаралттай LG Soundbar",
-    "images": [
-        "https://raw.githubusercontent.com/timfesc/product-images/main/AV%20png/S60T.ARUSLLK/S60T.ARUSLLK_01.png",
-        "https://raw.githubusercontent.com/timfesc/product-images/main/AV%20png/S60T.ARUSLLK/S60T.ARUSLLK_02.png",
-        "https://raw.githubusercontent.com/timfesc/product-images/main/AV%20png/S60T.ARUSLLK/S60T.ARUSLLK_03.png"
-    ],
-    "description": "• 3 сувгийн LG Soundbar-аар гэрийн театрын дуугаралтаа шинэ түвшинд хүргээрэй <br>• Dolby Audio™ технологиор хаанаас ч үзэж байсан, ямар ч  дуу авиа алгасахгүй <br>• Шинэ Crest загвар – орчин үеийн, дэгжин хийцтэй <br>• LG телевиз болон Soundbar-аа нэг удирдлагаар хянах боломжтой <br>• Шууд нэвтрүүлгийн тод дуу, хөгжмийн тоглолтын хүчтэй басс дуугаралтыг мэдрээрэй" 
-  },
-  {
+    {
     "model": "S40T",
     "title": "Dolby Audio™ технологитой, 2.1 сувгийн дуугаралттай LG Soundbar",
     "images": [
         "https://raw.githubusercontent.com/timfesc/product-images/main/AV%20png/S40T.DRUSLLK/S40T.DRUSLLK_01.png",
         "https://raw.githubusercontent.com/timfesc/product-images/main/AV%20png/S40T.DRUSLLK/S40T.DRUSLLK_02.png",
         "https://raw.githubusercontent.com/timfesc/product-images/main/AV%20png/S40T.DRUSLLK/S40T.DRUSLLK_03.png"
+    ],
+    "description": "• Жинхэнэ стерео болон мэдрэгдэм хүчтэй басс дуугралтаар телевизийнхээ аудиог шинэ түвшинд хүргээрэй <br>• WOW интерфейс – LG телевиз болон Soundbar-аа нэг удирдлагаар хянах боломжтой <br>• Clear Voice Plus технологиор кино, нэвтрүүлгийн яриаг илүү тод сонсоорой <br>• LG ThinQ апп-аар сонсох мэдрэмжээ өөртөө тохируул <br>• Signature Crest загвар – орчин үеийн, дэгжин хийцтэй"
+  },
+  {
+    "model": "XL7S",
+    "title": "LG XBOOM XL7S",
+    "images": [
+        "https://raw.githubusercontent.com/timfesc/product-images/main/AV%20png/XL7S.DRUSLLK/XL7S.DRUSLLK_01.png",
+        "https://raw.githubusercontent.com/timfesc/product-images/main/AV%20png/XL7S.DRUSLLK/XL7S.DRUSLLK_02.png",
+        "https://raw.githubusercontent.com/timfesc/product-images/main/AV%20png/XL7S.DRUSLLK/XL7S.DRUSLLK_03.png"
     ],
     "description": "• Жинхэнэ стерео болон мэдрэгдэм хүчтэй басс дуугралтаар телевизийнхээ аудиог шинэ түвшинд хүргээрэй <br>• WOW интерфейс – LG телевиз болон Soundbar-аа нэг удирдлагаар хянах боломжтой <br>• Clear Voice Plus технологиор кино, нэвтрүүлгийн яриаг илүү тод сонсоорой <br>• LG ThinQ апп-аар сонсох мэдрэмжээ өөртөө тохируул <br>• Signature Crest загвар – орчин үеийн, дэгжин хийцтэй"
   },
